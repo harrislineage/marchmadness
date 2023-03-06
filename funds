@@ -1,0 +1,12 @@
+{
+  "funds": [
+    {
+      "date": "6 March 2023",
+      "time": "10:20 am",
+      "money": [
+        {
+          "paypal": 801.09,
+          "cash": 0.00
+    }
+  ]
+}
